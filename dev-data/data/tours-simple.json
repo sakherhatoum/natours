@@ -1,0 +1,52 @@
+[{
+    "name":"The Forest Hiker1",
+    "duration":15,
+    "maxGroupSize":25,
+    "difficulty":"easy",
+    "ratingsAverage":4.7,
+    "price":37,
+    "summary":"summary0 summary0 summary0 summary0 summary0",
+    "description":"description0 description0 description0 description0 description0",
+    "imageCover":"tour-0-cover.jpg",
+    "images":["tour-0-0.jpg","tour-0-1.jpg","tour-0-2.jpg"],
+    "startDates":["2021-04-25, 10:00","2021-07-20, 10:00","2021-10-5, 10:00"]
+    },
+    {
+        "name":"The Park Camper",
+        "duration":9,
+        "maxGroupSize":35,
+        "difficulty":"medium",
+        "ratingsAverage":4.9,
+        "price":45,
+        "summary":"summary1 summary1 summary1 summary1 summary1",
+        "description":"description1 description1 description1 description1 description1",
+        "imageCover":"tour-1-cover.jpg",
+        "images":["tour-1-0.jpg","tour-1-1.jpg","tour-1-2.jpg"],
+        "startDates":["2021-03-28, 10:00","2021-07-20, 10:00","2021-10-5, 10:00"]
+        },
+        {
+            "name":"The Snow Adventure",
+            "duration":11,
+            "maxGroupSize":30,
+            "difficulty":"hard",
+            "ratingsAverage":4.3,
+            "price":50,
+            "summary":"summary2 summary2 summary2 summary2 summary2",
+            "description":"description2 description2 description2 description2 description2",
+            "imageCover":"tour-2-cover.jpg",
+            "images":["tour-2-0.jpg","tour-2-1.jpg","tour-2-2.jpg"],
+            "startDates":["2021-03-28, 10:00","2021-04-25, 10:00","2021-11-15, 11:00"]
+            },
+            {
+                "name":"The Star Gazer",
+                "duration":7,
+                "maxGroupSize":45,
+                "difficulty":"easy",
+                "ratingsAverage":5,
+                "price":30,
+                "summary":"summary3 summary3 summary3 summary3 summary3",
+                "description":"description3 description3 description3 description3 description3",
+                "imageCover":"tour-3-cover.jpg",
+                "images":["tour-3-0.jpg","tour-3-1.jpg","tour-3-2.jpg"],
+                "startDates":["2021-03-28, 12:00","2021-04-29, 11:00","2021-11-15, 11:00"]
+                }]
